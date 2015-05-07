@@ -1,0 +1,57 @@
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.comment {
+    padding: 0px 10px;
+    margin: 5px;
+    border: 1px dotted #909090;
+}
+
+.comment p {
+    font-size: 14px!important;
+}
+
+.container img {
+    max-width: 640px;
+}
+
+.col-md-4 {
+    overflow-x: hidden;
+}
+
+.tag-list {
+    line-height: 300%;
+}
+
+.emoji {
+    width: 16px;
+    height: 16px;
+}
+
+.news {
+    border: 1px solid #cccccc;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+}
+
+.planet-summary {
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.preview {
+    border: 1px dashed #cccccc;
+    background-color: #FFFFFF;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+    .preview img {
+        max-width: 350px;
+        max-height: 300px;
+    }

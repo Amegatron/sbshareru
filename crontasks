@@ -1,0 +1,1 @@
+* * * * * /opt/php5.4_aux1/current/bin/php /home/virtwww/w_sbshare_4dafd29b/http/artisan queue:work

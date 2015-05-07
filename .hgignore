@@ -1,0 +1,12 @@
+syntax: glob
+
+.DS_Store
+.svn
+*.swp
+*~
+nbproject
+.idea
+.gitattributes
+.gitignore
+*.log
+app/storage/*
